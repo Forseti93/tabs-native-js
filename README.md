@@ -2,6 +2,7 @@
 Tabs without style on native JS. </br>
 Case: </br>
 	-Quantity of tabs is same as tab contents. </br>
-	-Any quantity of tabs and tab content. </br>
+	-Any quantity of tabs and tab content. </br></br>
+	Example:</br>
+	![This is an image](/Example.png)
 	
-	![alt text](http://url/to/img.png)
