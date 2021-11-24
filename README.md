@@ -1,3 +1,5 @@
 # tabs-native-js
-tabs without style on native JS.
-case: quantity of tabs is same as tab comtents. quantity of tabs and tancontent infinite
+Tabs without style on native JS. </br>
+Case: </br>
+	-Quantity of tabs is same as tab comtents. </br>
+	-Any quantity of tabs and tancontent. </br>
