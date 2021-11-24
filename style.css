@@ -1,0 +1,15 @@
+.tabs-container{ 
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.tabcontent{
+  display: none;
+}
+.tabcontent.visible{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
